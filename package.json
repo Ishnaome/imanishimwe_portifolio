@@ -1,0 +1,25 @@
+{
+  "name": "naomi-portifolio",
+  "version": "1.0.0",
+  "description": "An attractive, ultra-modern, interactive, and high-performance portfolio website built for **Naome Imanishimwe** (BSc. Information Technology - Networking, AUCA).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OdileMas/Naomi-portifolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/OdileMas/Naomi-portifolio/issues"
+  },
+  "homepage": "https://github.com/OdileMas/Naomi-portifolio#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
