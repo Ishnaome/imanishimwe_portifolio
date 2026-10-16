@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Naome Imanishimwe — Professional Tech Portfolio & CV Hub
 
 An attractive, ultra-modern, interactive, and high-performance portfolio website built for **Naome Imanishimwe** (BSc. Information Technology - Networking, AUCA).
@@ -107,3 +108,11 @@ npx serve .
 - **Phone**: +250 792 016 600
 - **Location**: Kigali, Rwanda
 - **Certifications**: CISCO Networking Essentials, ISOC Network Operations, Digital Talent Software Development, AUCA English Proficiency.
+=======
+# imanishimwe_portifolio
+
+
+
+
+hello
+>>>>>>> 46845073b4114127399e181e8727c9281bd58028
